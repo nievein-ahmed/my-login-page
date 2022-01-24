@@ -63,3 +63,19 @@ input[type="submit"]:hover {
   display: table;
   clear: both;
 }
+.v1 {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  border: 2px solid whitesmoke;
+  height: 175px;
+}
+.v1-innertext {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: whitesmoke;
+  border: 1px solid whitesmoke;
+  border-radius: 50%;
+  padding: 8px 10px;
+}
