@@ -26,3 +26,35 @@ input,
   line-height: 22px;
   text-decoration: none;
 }
+input:hover,
+.btn:hover {
+  opacity: 1;
+}
+.fb {
+  background-color: rgb(9, 51, 85);
+  color: azure;
+}
+.twitter {
+  background-color: #55acee;
+  color: azure;
+}
+.google {
+  background-color: #dd4b39;
+  color: azure;
+}
+input[type="submit"] {
+  background-color: paleturquoise;
+  color: azure;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: cyan;
+}
+/* Two colum layout */
+.col {
+  float: left;
+  width: 50%;
+  margin: auto;
+  padding: 0 50px;
+  margin-top: 6px;
+}
