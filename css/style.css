@@ -79,3 +79,11 @@ input[type="submit"]:hover {
   border-radius: 50%;
   padding: 8px 10px;
 }
+.hide-md-1g {
+  display: none;
+}
+.bottom-container {
+  text-align: center;
+  background-color: slategrey;
+  border-radius: 0px 0px 4px 4px;
+}
