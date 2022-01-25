@@ -38,3 +38,15 @@ input,
   font-size: 20px;
   line-height: 20px;
 }
+.twitter {
+  background-color: #66c2ff;
+  color: whitesmoke;
+}
+.facebook {
+  background-color: #006bb3;
+  color: whitesmoke;
+}
+.Google {
+  background-color: #ff1a1a;
+  color: whitesmoke;
+}
