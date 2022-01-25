@@ -50,3 +50,26 @@ input,
   background-color: #ff1a1a;
   color: whitesmoke;
 }
+input [type="submit"] {
+  background-color: #006bb3;
+  color: azure;
+  cursor: pointer;
+}
+input [type="submit"]:hover {
+  background-color: burlywood;
+}
+.column {
+  float: right;
+  width: 50%;
+  margin: auto;
+  padding: 0 50px;
+
+  margin-top: 6px;
+}
+.right::after {
+  content: "";
+  display: inline-block;
+  clear: both;
+}
+.left {
+}
