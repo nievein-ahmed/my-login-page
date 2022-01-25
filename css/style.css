@@ -59,17 +59,12 @@ input [type="submit"]:hover {
   background-color: burlywood;
 }
 .column {
-  float: right;
+  float: left;
   width: 50%;
   margin: auto;
   padding: 0 50px;
 
   margin-top: 6px;
-}
-.right::after {
-  content: "";
-  display: inline-block;
-  clear: both;
-}
+
 .left {
 }
