@@ -85,11 +85,11 @@ input[type="submit"]:hover {
   clear: both;
 }
 .bottom-container {
-  text-align: center;
   background-color: cyan;
   border-radius: 6px 0px 4px 4px;
-  display: inline-block;
+  display: flex;
   margin: 0 auto;
+  align-items: center;
 }
 .input-group {
   display: flex;
