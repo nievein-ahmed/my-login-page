@@ -89,5 +89,10 @@ input[type="submit"]:hover {
   background-color: cyan;
   border-radius: 6px 0px 4px 4px;
   display: inline-block;
-  position: absolute;
+  margin: 0 auto;
+}
+.input-group {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
