@@ -63,12 +63,12 @@ input,
   color: whitesmoke;
   letter-spacing: 4px;
 }
-input [type="submit"] {
+input[type="submit"] {
   background-color: #006bb3;
   color: azure;
   cursor: pointer;
 }
-input [type="submit"]:hover {
+input[type="submit"]:hover {
   background-color: burlywood;
 }
 .column {
