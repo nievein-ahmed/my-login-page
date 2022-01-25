@@ -87,5 +87,7 @@ input[type="submit"]:hover {
 .bottom-container {
   text-align: center;
   background-color: cyan;
-  border-radius: 0px 0px 4px 4px;
+  border-radius: 6px 0px 4px 4px;
+  display: inline-block;
+  position: absolute;
 }
